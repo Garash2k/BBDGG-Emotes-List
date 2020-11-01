@@ -83,7 +83,7 @@
   <tr>
     <td>ITSRAWWW</td>
     <td><img src="https://cdn.frankerfacez.com/emoticon/434345/1" /></td>
-    <td>Gordon Ramesy/bad kitchen antics</td>
+    <td>Gordon Ramsay/bad kitchen antics</td>
   </tr>
   <tr>
     <td>Riperino</td>
@@ -107,7 +107,7 @@
   <tr>
     <td>CuckCrab</td>
     <td><img src="https://i.imgur.com/M7PFghe.gif" /></td>
-    <td>Cuck being mentionned, or dancing</td>
+    <td>Cuck being mentioned, or dancing</td>
   </tr>
   <tr>
     <td>MiyanoHype</td>
@@ -146,6 +146,6 @@
     <td colspan="2">
       4Head, BabyRage, DansGame, EleGiggle, Kreygasm, MingLee, NotLikeThis, PJSalt <a href="https://betterttv.com/emotes/56ec8a535c391d4c7239fe22">(alt sick one)</a>, PogChamp, SMOrc, TooSpicy, ResidentSleeper.
       <br>
-      <em>Opinion</em>: NotLikeThis, PJSalt and SMOrc, or some d.gg version for bewilderment, salt and Orc-ing would would be good additions. The rest are redundant with existing emotes.
+      <em>Opinion</em>: NotLikeThis, PJSalt and SMOrc, or some d.gg version for bewilderment, salt and Orc-ing would be good additions. The rest are redundant with existing emotes.
     </td>
 </table>

@@ -1,4 +1,4 @@
-# BBDGG-Emotes-List
+# BBDGG Emotes List
 
 <table>
   <tr>

@@ -93,7 +93,7 @@
   <tr>
     <td>WEOW</td>
     <td><img src="https://i.imgur.com/k7JiTNR.png" /></td>
-    <td>Unironically never used lol</td>
+    <td><s>Unironically never used lol</s> WEOW</td>
   </tr>
   <tr>
     <th colspan="3">

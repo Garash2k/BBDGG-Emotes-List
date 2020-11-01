@@ -114,8 +114,7 @@
     <td><img src="https://cdn.betterttv.net/emote/588763bbafc2ff756c3f4c26/1x" /></td>
     <td>Jumping, or weeb excitement
       <a href="https://raw.githubusercontent.com/downthecrop/chat-gui/ff7cc3942e7dc66d1e9cd980bfe66cad47351377/assets/emotes/emoticons-animated/MiyanoHype.png">(CSS)</a>
-      <pre>
-@keyframes MiyanoHype-anim {
+      <pre>@keyframes MiyanoHype-anim {
   100% { background-position: -320px; }
 }
 .chat-emote-MiyanoHype {
@@ -127,8 +126,7 @@
 }
 .chat-emote-MiyanoHype:hover {
   animation: MiyanoHype-anim 800ms steps(10) infinite;
-}
-      </pre>
+}</pre>
     </td>
   </tr>
   <tr>

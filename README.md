@@ -82,7 +82,7 @@
   </tr>
   <tr>
     <td>ITSRAWWW</td>
-    <td><img src="https://cdn.frankerfacez.com/emoticon/434345/1" /></td>
+    <td><img src="https://raw.githubusercontent.com/downthecrop/chat-gui/ff7cc3942e7dc66d1e9cd980bfe66cad47351377/assets/emotes/emoticons/ITSRAWWW.png" /></td>
     <td>Gordon Ramsay/bad kitchen antics</td>
   </tr>
   <tr>

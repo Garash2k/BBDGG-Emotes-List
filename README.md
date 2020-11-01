@@ -14,7 +14,7 @@
   <tr>
     <td>PepOk</td>
     <td><img src="https://i.imgur.com/Neh3E3f.png" /></td>
-    <td>Simple "thumbs up" emote</td>
+    <td>"Thumbs up" emote</td>
   </tr>
   <tr>
     <td>PepoWant</td>

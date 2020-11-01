@@ -147,5 +147,7 @@
     </th>
     <td colspan="2">
       4Head, BabyRage, DansGame, EleGiggle, Kreygasm, MingLee, NotLikeThis, PJSalt <a href="https://betterttv.com/emotes/56ec8a535c391d4c7239fe22">(alt sick one)</a>, PogChamp, SMOrc, TooSpicy, ResidentSleeper
-    </td
+      <br>
+      Subjective opinion: NotLikeThis, PJSalt and SMOrc, or some d.gg version for bewilderment, salt and Orc-ing would would be good additions. The rest are redundant with existing emotes.
+    </td>
 </table>

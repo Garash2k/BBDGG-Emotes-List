@@ -26,6 +26,21 @@
     <td><img src="https://cdn.frankerfacez.com/emoticon/358320/1" /></td>
     <td>Comfyness</td>
   </tr>
+  <tr>
+    <td>ECH</td>
+    <td><img src="https://cdn.frankerfacez.com/emoticon/296802/1" /></td>
+    <td>Disgust</td>
+  </tr>
+  <tr>
+    <td>monkaSMEGA</td>
+    <td><img src="https://raw.githubusercontent.com/MemeLabs/chat-gui/c93609804d0c8ec6c3b03d33966f312ea4ca6289/assets/emotes/emoticons/monkaMEGA.png" /></td>
+    <td>For when something's more scary than monkaS</td>
+  </tr>
+  <tr>
+    <td>NiceMeMe</td>
+    <td><img src="https://i.imgur.com/yj6SYA8.png" /></td>
+    <td>Gnomes, or when "Nice meme" is said</td>
+  </tr>
     <td>ApeHands</td>
     <td><img src="https://i.imgur.com/6VJCyLG.png" /></td>
     <td>Pointing right, from an emote/user, to an emote/user</td>
@@ -61,11 +76,6 @@
     <td>Delicious/gluttonous food</td>
   </tr>
   <tr>
-    <td>ECH</td>
-    <td><img src="https://cdn.frankerfacez.com/emoticon/296802/1" /></td>
-    <td>Disgust</td>
-  </tr>
-  <tr>
     <td>FeelsGimiMan</td>
     <td><img src="https://i.imgur.com/LJn16dr.png" /></td>
     <td>Driving (it's a formula 1 costume)</td>
@@ -84,16 +94,6 @@
     <td>WEOW</td>
     <td><img src="https://i.imgur.com/k7JiTNR.png" /></td>
     <td>Unironically never used lol</td>
-  </tr>
-  <tr>
-    <td>monkaSMEGA</td>
-    <td><img src="https://raw.githubusercontent.com/MemeLabs/chat-gui/c93609804d0c8ec6c3b03d33966f312ea4ca6289/assets/emotes/emoticons/monkaMEGA.png" /></td>
-    <td>For when something's more scary than monkaS</td>
-  </tr>
-  <tr>
-    <td>NiceMeMe</td>
-    <td><img src="https://i.imgur.com/yj6SYA8.png" /></td>
-    <td>Gnomes, or when "Nice meme" is said</td>
   </tr>
   <tr>
     <th colspan="3">

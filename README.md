@@ -11,6 +11,21 @@
       BBDGG novel static emotes
     </th>
   <tr>
+  <tr>
+    <td>PepOk</td>
+    <td><img src="https://i.imgur.com/Neh3E3f.png" /></td>
+    <td>Simple "thumbs up" emote</td>
+  </tr>
+  <tr>
+    <td>PepoWant</td>
+    <td><img src="https://raw.githubusercontent.com/MemeLabs/chat-gui/c93609804d0c8ec6c3b03d33966f312ea4ca6289/assets/emotes/emoticons/PepoWant.png" /></td>
+    <td>Wanting something</td>
+  </tr>
+  <tr>
+    <td>PepoComfy</td>
+    <td><img src="https://cdn.frankerfacez.com/emoticon/358320/1" /></td>
+    <td>Comfyness</td>
+  </tr>
     <td>ApeHands</td>
     <td><img src="https://i.imgur.com/6VJCyLG.png" /></td>
     <td>Pointing right, from an emote/user, to an emote/user</td>
@@ -59,21 +74,6 @@
     <td>ITSRAWWW</td>
     <td><img src="https://cdn.frankerfacez.com/emoticon/434345/1" /></td>
     <td>Gordon Ramesy/bad kitchen antics</td>
-  </tr>
-  <tr>
-    <td>PepOk</td>
-    <td><img src="https://i.imgur.com/Neh3E3f.png" /></td>
-    <td>Simple "thumbs up" emote</td>
-  </tr>
-  <tr>
-    <td>PepoComfy</td>
-    <td><img src="https://cdn.frankerfacez.com/emoticon/358320/1" /></td>
-    <td>Default comfyness</td>
-  </tr>
-  <tr>
-    <td>PepoWant</td>
-    <td><img src="https://raw.githubusercontent.com/MemeLabs/chat-gui/c93609804d0c8ec6c3b03d33966f312ea4ca6289/assets/emotes/emoticons/PepoWant.png" /></td>
-    <td>Wanting something</td>
   </tr>
   <tr>
     <td>Riperino</td>

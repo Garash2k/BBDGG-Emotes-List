@@ -137,7 +137,7 @@
   <tr>
     <td>SourPls</td>
     <td><img src="https://cdn.betterttv.net/emote/566ca38765dbbdab32ec0560/1x" /></td>
-    <td>Rave/dancing</td>
+    <td>Dancing</td>
   </tr>
   <tr>
     <th>
